@@ -1,0 +1,6 @@
+ipywidgets>=8.0
+numpy
+matplotlib
+pillow
+opencv-python
+traitlets
