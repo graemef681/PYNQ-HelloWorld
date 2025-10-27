@@ -18,7 +18,7 @@ You can use it to:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1️. Prerequisites
 
@@ -61,7 +61,7 @@ pip install .
 Clone this repository:
 
 ```sh
-git clone https://github.com/<yourname>/pynq-remote-resizer.git
+git clone -b Remote_HelloWorld https://github.com/graemef681/PYNQ-HelloWorld.git
 cd pynq_helloworld/notebooks
 ```
 
