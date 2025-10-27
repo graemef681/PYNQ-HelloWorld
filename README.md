@@ -5,7 +5,7 @@
 A lightweight demo showcasing **PYNQ.remote** capabilities using host-side hardware integration.  
 This example provides a graphical interface (via `ipywidgets`) that connects a host webcam or uploaded image to an FPGA-based image resizer running remotely on a PYNQ board (e.g., ZCU104).
 
-![notebooks/images/demo.png]
+![](./demo.png)
 ---
 
 ## Overview
